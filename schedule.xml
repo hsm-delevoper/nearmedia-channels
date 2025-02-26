@@ -1,0 +1,58 @@
+<schedule>
+    <channel id="1">
+        <day name="Пятница">
+            <program time="20:35" title="Nearские новости: Вечер"/>
+            <program time="20:50" title="Разбор мемов"/>
+            <program time="21:00" title="ПотенциальскОЕ время"/>
+            <program time="22:00" title="Конец эфира"/>
+        </day>
+        <day name="Суббота">
+            <program time="13:00" title="Дневной блок"/>
+            <program time="14:00" title="ПотенциальскОЕ время"/>
+            <program time="14:50" title="Разбор мемов"/>
+            <program time="15:00" title="Общение"/>
+            <program time="16:00" title="Nearские новости: День"/>
+            <program time="17:00" title="Юмористы: Премьера!"/>
+            <program time="17:25" title="Конец эфира"/>
+        </day>
+        <day name="Воскресенье">
+            <program time="10:00" title="Утро: Утренний блок"/>
+            <program time="11:50" title="Общение"/>
+            <program time="12:40" title="Разбор мемов"/>
+            <program time="12:50" title="Юмористы: повтор"/>
+            <program time="13:10" title="Дом кринжа"/>
+            <program time="14:00" title="Это же архив"/>
+            <program time="14:30" title="Игровой блок"/>
+            <program time="15:30" title="Реклама"/>
+            <program time="15:45" title="Конец эфира"/>
+        </day>
+    </channel>
+    <channel id="2">
+        <day name="Пятница">
+            <program time="20:35" title="Nearские новости: Вечер"/>
+            <program time="20:50" title="Разбор мемов"/>
+            <program time="21:00" title="ПотенциальскОЕ время"/>
+            <program time="22:00" title="Конец эфира"/>
+        </day>
+        <day name="Суббота">
+            <program time="13:00" title="Дневной блок"/>
+            <program time="14:00" title="ПотенциальскОЕ время"/>
+            <program time="14:50" title="Разбор мемов"/>
+            <program time="15:00" title="Общение"/>
+            <program time="16:00" title="Nearские новости: День"/>
+            <program time="17:00" title="Юмористы: Премьера!"/>
+            <program time="17:25" title="Конец эфира"/>
+        </day>
+        <day name="Воскресенье">
+            <program time="10:00" title="Утро: Утренний блок"/>
+            <program time="11:50" title="Общение"/>
+            <program time="12:40" title="Разбор мемов"/>
+            <program time="12:50" title="Юмористы: повтор"/>
+            <program time="13:10" title="Дом кринжа"/>
+            <program time="14:00" title="Это же архив"/>
+            <program time="14:30" title="Игровой блок"/>
+            <program time="15:30" title="Реклама"/>
+            <program time="15:45" title="Конец эфира"/>
+        </day>
+    </channel>
+</schedule>
