@@ -1,5 +1,17 @@
 <schedule>
     <channel id="1">
+        <day name="Понедельник">
+            <program time="00:00" title="Профилактика"/>
+        </day>
+        <day name="Вторник">
+            <program time="00:00" title="Профилактика"/>
+        </day>
+        <day name="Среда">
+            <program time="00:00" title="Профилактика"/>
+        </day>
+        <day name="Четверг">
+            <program time="00:00" title="Профилактика"/>
+        </day>
         <day name="Пятница">
             <program time="20:35" title="Nearские новости: Вечер"/>
             <program time="20:50" title="Разбор мемов"/>
